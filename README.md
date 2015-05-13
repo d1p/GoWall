@@ -25,7 +25,7 @@ Example Configuration
         "proto": "udp",
         "port": 53,
         "allow": [
-            “8.8.8.8”,
+            "8.8.8.8",
             "8.8.4.4"
         ]
     }
