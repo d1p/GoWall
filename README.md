@@ -1,7 +1,7 @@
 GoWall 
 ========
 
-GoWall is a fireall made in GoLang that uses IPTables as it's backbone, the idea is to allow easy and fast configuration of IPTables.
+GoWall is a firewall made in GoLang that uses IPTables as it's backbone, the idea is to allow easy and fast configuration of IPTables.
 
 Compilation 
 -----------
